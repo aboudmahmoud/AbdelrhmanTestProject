@@ -16,9 +16,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
-            <LinearLayout
+            <HorizontalScrollView
                 android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
@@ -31,10 +33,13 @@
                     android:textColor="@color/black"
                     android:text="@string/usell_nup"
                     />
+
                 <LinearLayout
-                    android:layout_width="match_parent"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+
                     android:layout_margin="10dp"
+                    android:layout_weight="1"
                     android:background="@color/white"
                     android:orientation="horizontal">
 
@@ -52,16 +57,19 @@
 
                         android:minHeight="48dp"
                         android:padding="10dp" />
+
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:padding="20dp"
 
-                        android:src="@drawable/hours"/>
+                        android:layout_gravity="center"
+                        android:src="@drawable/hours" />
                 </LinearLayout>
 
 
             </LinearLayout>
+            </HorizontalScrollView>
             <HorizontalScrollView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
@@ -565,6 +573,7 @@ Title Product "
                     android:id="@+id/textView13"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
                     android:text="#TOP TITLE"
                     android:textColor="@color/black"/>
 

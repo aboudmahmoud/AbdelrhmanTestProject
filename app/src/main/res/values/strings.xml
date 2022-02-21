@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">AbdelrhmanTestProject</string>
     <string name="serach">Serach</string>
-    <string name="usell_nup">Usell \nUp</string>
+    <string name="usell_nup"><b>Usell \nUp</b></string>
     <string name="head_til_1">HEAD TIl 1   </string>
     <string name="head_til_2">HEAD TIL 2   </string>
     <string name="head_til_3">HEAD TIL 3   </string>

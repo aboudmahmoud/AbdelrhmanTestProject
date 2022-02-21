@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:icon="@drawable/layer"
+    android:title=""></item>
+    <item
+        android:icon="@drawable/shopp"
+        android:title=""></item>
+    <item
+        android:icon="@drawable/instagram"
+        android:title=""></item>
+    <item
+        android:icon="@drawable/compass"
+        android:title=""></item>
+    <item
+        android:icon="@drawable/badge"
+        android:title=""></item>
+</menu>

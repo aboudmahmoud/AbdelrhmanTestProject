@@ -1,19 +1,21 @@
 <resources>
     <string name="app_name">AbdelrhmanTestProject</string>
     <string name="serach">Serach</string>
-    <string name="usell_nup"><b>Usell \nUp</b></string>
+    <string name="usell_nup"><b>USell \nUp</b></string>
     <string name="head_til_1">HEAD TIl 1   </string>
     <string name="head_til_2">HEAD TIL 2   </string>
     <string name="head_til_3">HEAD TIL 3   </string>
     <string name="head_til_4">HEAD TIL 4   </string>
-    <string name="aed_300dh_aed_650">AED 300dh/-                                                     <u>AED 650/- </u> </string>
+    <string name="aed_300dh">AED 300dh/- </string>
+    <string name="aed_650dh"> <strike>AED 650/- </strike></string>
     <string name="shop">Shop</string>
     <string name="_50_off">50% Off</string>
-    <string name="best_practice">Best Practice</string>
-    <string name="main_catgroy1">Main Catgroy1</string>
-    <string name="main_catgroy2">Main Catgroy2</string>
-    <string name="main_catgroy3">Main Catgroy3</string>
-    <string name="main_catgroy4">Main Catgroy4</string>
+    <string name="best_practice">Best Practice Definition &amp; Meaning</string>
+    <string name="main_catgroy1">Main \nCatgroy 1</string>
+    <string name="main_catgroy2">Main \n Catgroy 2</string>
+    <string name="main_catgroy3">Main \n Catgroy 3</string>
+    <string name="main_catgroy4">Main \nCatgroy 4</string>
     <string name="best_title">#BEST TITLE</string>
     <string name="sub_catgroy">Sub Catgroy</string>
+    <string name="_3_km">3 Km</string>
 </resources>
